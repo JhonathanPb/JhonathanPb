@@ -13,9 +13,6 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Não atuo na área ai
 
 ## Tecnologias que estou aprendendo
 - C# (um pouco de java também)
-- Flowgorithm  
-- Scratch  
-- Lógica de programação  
 - Conceitos de variáveis, condicionais, laços e vetores  
 
 ---
