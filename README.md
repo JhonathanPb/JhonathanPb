@@ -8,7 +8,7 @@
 Atualmente, estudo análise e desenvolvimento de sistemas. Não atuo na área ainda, trabalho em metalúrgica especializada na produção de Cintos de Segurança. Com o tempo que me resta de estudos e trabalho, gosto de praticar programação e treinar. Meu objetivo é evoluir constantemente e criar soluções intuitivas e funcionais.
 
 ## Projetos
-- [Jogo de Adivinhação (Flowgorithm)](link-do-repositório)  
+- [Jogo de Adivinhação (Flowgorithm)]([link-do-repositório](https://github.com/JhonathanPb/jogo-adivinhacao-flowgorithm/tree/main))  
 - **Em breve:** Projetos pessoais
 
 ## Tecnologias que estou aprendendo
