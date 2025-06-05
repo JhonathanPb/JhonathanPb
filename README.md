@@ -12,7 +12,8 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Não atuo na área ai
 - **Em breve:** Projetos pessoais
 
 ## Tecnologias que estou aprendendo
-- C# (um pouco de java também)
+- C# (intermediário)
+- Java (básico)
 - Conceitos de variáveis, condicionais, laços e vetores  
 
 ---
