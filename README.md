@@ -9,7 +9,7 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Não atuo na área ai
 
 ## Projetos
 - [Jogo de Adivinhação (Flowgorithm)]([link-do-repositório](https://github.com/JhonathanPb/jogo-adivinhacao-flowgorithm/tree/main))  
-- **Em breve:** Projetos pessoais
+- Sistema de Login em C# (feito a partir do que foi ensinado na faculdade)
 
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
