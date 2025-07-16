@@ -1,7 +1,7 @@
 # Olá, eu sou o JhonathanPb!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Iniciando minha jornada na programação e tecnologia  
+💻 Iniciando minha jornada na tecnologia  
 🚀 Apaixonado por aprender, desenvolver e criar. 
 
 ## Sobre mim
@@ -14,9 +14,15 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
 - Java (básico)
-- Conceitos de variáveis, condicionais, laços e vetores  
+- Git & GitHub
+- Markdown 
 
 ---
+
+- 🌱 Estou aprendendo atualmente: Git e GitHub
+- 📫 Como me encontrar: [Jhonathan Pablo](www.linkedin.com/in/jhonathanpablo)
+
+  
 
 _"Cada projeto simples é um passo para coisas incríveis!"_
 
