@@ -21,7 +21,7 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 ---
 
 - 🌱 Estou aprendendo atualmente: Git e GitHub
-- 📫 Como me encontrar: [Likedin](www.linkedin.com/in/jhonathanpablo)
+- 📫 Como me encontrar: [Likedin](https://www.linkedin.com/in/jhonathanpablo)
 
   
 
