@@ -8,8 +8,9 @@
 Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evoluir constantemente e criar soluções intuitivas e funcionais.
 
 ## Projetos
-- [Jogo de Adivinhação (Flowgorithm)]([link-do-repositório](https://github.com/JhonathanPb/jogo-adivinhacao-flowgorithm/tree/main))  
-- Sistema de Login simples (C#)
+- [Jogo de Adivinhação - Flowgorithm](https://github.com/JhonathanPb/jogo-adivinhacao-flowgorithm/tree/main) 
+- [Sistema de Login simples Login - C#](https://github.com/JhonathanPb/sistema-login-csharp)
+- [Programa de cadastro, precificação e desconto de produto - Java](https://github.com/JhonathanPb/meumercado-Java)
 
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
