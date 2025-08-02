@@ -11,7 +11,8 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 - [Jogo de Adivinhação - Flowgorithm](https://github.com/JhonathanPb/jogo-adivinhacao-flowgorithm/tree/main) 
 - [Sistema de Login simples Login - C#](https://github.com/JhonathanPb/sistema-login-csharp)
 - [Programa de cadastro, precificação e desconto de produto - Java](https://github.com/JhonathanPb/meumercado-Java)
-- [Projeto Site - html & CSS](https://github.com/JhonathanPb/projeto-site)
+- [Projeto Site - HTML & CSS](https://github.com/JhonathanPb/projeto-site)
+- [Desafio Pessoal - HTML & CSS](https://github.com/JhonathanPb/deafio-pessoal)
 
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
