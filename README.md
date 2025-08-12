@@ -13,6 +13,7 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 - [Programa de cadastro, precificação e desconto de produto - Java](https://github.com/JhonathanPb/meumercado-Java)
 - [Projeto Site - HTML & CSS](https://github.com/JhonathanPb/projeto-site)
 - [Desafio Pessoal - HTML & CSS](https://github.com/JhonathanPb/deafio-pessoal)
+- [Gerenciador de Tarefas Python - Python](https://github.com/JhonathanPb/project-python)
 
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
