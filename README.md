@@ -18,6 +18,7 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
 - Java (básico)
+- Python (básico)
 - html e CSS (básico)
 - Git & GitHub
 
