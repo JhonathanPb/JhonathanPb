@@ -15,6 +15,7 @@ Atualmente, estudo análise e desenvolvimento de sistemas. Meu objetivo é evolu
 - [Desafio Pessoal - HTML & CSS](https://github.com/JhonathanPb/deafio-pessoal)
 - [Gerenciador de Tarefas Python - Python](https://github.com/JhonathanPb/project-python)
 - [ATM PY BANK - Python](https://github.com/JhonathanPb/atm)
+- [Mini ROG - C#](https://github.com/JhonathanPb/mini-rpg) (EM CONSTRUÇÂO)
 
 ## Tecnologias que estou aprendendo
 - C# (intermediário)
